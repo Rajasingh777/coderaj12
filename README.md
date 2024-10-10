@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderaj12
+- 👋 Hi, I’m Raja Singh
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning bachelor of technology in computer science 
 - 💞️ I’m looking to collaborate on ...
